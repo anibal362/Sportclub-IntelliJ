@@ -4,7 +4,7 @@
     <root id="root">
       <element id="javaee-facet-resources" facet="SportClub/javaeeApplication/javaEEApplication" />
       <element id="directory" name="web.war">
-        <element id="artifact" artifact-name="SportClub:war exploded" />
+        <element id="artifact" artifact-name="sp" />
       </element>
     </root>
   </artifact>
